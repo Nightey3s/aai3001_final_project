@@ -38,3 +38,5 @@ tzdata==2024.2
 ultralytics==8.3.38
 ultralytics-thop==2.0.12
 urllib3==2.2.3
+libgl1-mesa-glx
+libglib2.0-0
